@@ -23,9 +23,9 @@ The scripts are organized by technology or analysis type. Each script's expected
 
 ### ChIP-seq
 
-- [**mapping.sh**](mapping.sh): map ChIP-seq samples, Fig 3
-- [**spike_in_downsampling.sh**](spike_in_downsampling.sh): Process spike-in ChIP-seq samples, Fig 3
-- [**peakcalling.sh**](peakcalling.sh): call peaks of ChIP-seq samples, Fig 3
-- [**heatmap.sh**](heatmap.sh): draw heatmap of ChIP-seq samples, Fig 3
-- [**venn.R**](venn.R): R code for venn diagram, Fig 3
-- [**figure_3.R**](figure_3.R): R code for figure, Fig 3
+- [**mapping.sh**](ChIP-seq/mapping.sh): map ChIP-seq samples, Fig 3
+- [**spike_in_downsampling.sh**](ChIP-seq/spike_in_downsampling.sh): Process spike-in ChIP-seq samples, Fig 3
+- [**peakcalling.sh**](ChIP-seq/peakcalling.sh): call peaks of ChIP-seq samples, Fig 3
+- [**heatmap.sh**](ChIP-seq/heatmap.sh): draw heatmap of ChIP-seq samples, Fig 3
+- [**venn.R**](ChIP-seq/venn.R): R code for venn diagram, Fig 3
+- [**figure_3.R**](ChIP-seq/figure_3.R): R code for figure, Fig 3
