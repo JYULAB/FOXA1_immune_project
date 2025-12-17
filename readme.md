@@ -18,5 +18,5 @@ The scripts are organized by technology or analysis type. Each script's expected
 - [**trajectory_analysis.R**](scRNA-seq/trajectory_analysis.R): Trajectory analysis of epithelial populations Fig 2
 - [**CellChat_analysis.R**](scRNA-seq/CellChat_analysis.R): Analysis of 10x whole tumor scRNA-seq data with CellChat, Fig 6
 - [**Pip-seq_processing_processing.R**](scRNA-seq/Pip-seq_processing_processing.R): Processing, integrating and annotation of PIP-Seq data, Fig 3
-- [**pipseq_analysis_CD45.R**](scRNA-seq/pipseq_analysis_CD45.R): Analyses of the CD45+ sorted PIP-Seq data, Fig 3
+- [**pipseq_analysis_CD45.R**](scRNA-seq/pipseq_analysis_CD45.R): Analyses of the CD45+ sorted PIP-Seq data, Fig 4
 - [**scRNAseq_analysis_human.R**](scRNA-seq/scRNAseq_analysis_human.R): Analyse of published human PCa GSE181294 scRNA-seq data, Fig 7 
