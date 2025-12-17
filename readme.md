@@ -8,7 +8,7 @@ The scripts are organized by technology or analysis type. Each script's expected
 ### Spatial_Transcriptomics
 
 #### Visium
-- [**TESLA_analyses.py**](/Spatial_Transcriptomics/Visium_analyses/TESLA_analyses.py): Tumor Edge Structure and Lymphocyte multi-level Annotation Analysis, Fig 4
+- [**TESLA_analyses.py**](/Spatial_Transcriptomics/Visium_analyses/TESLA_analyses.py): Tumor Edge Structure and Lymphocyte multi-level Annotation Analysis, Fig 5
 
 ### scRNA-seq
 
