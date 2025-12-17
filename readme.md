@@ -28,4 +28,4 @@ The scripts are organized by technology or analysis type. Each script's expected
 - [**peakcalling.sh**](peakcalling.sh): call peaks of ChIP-seq samples, Fig 3
 - [**heatmap.sh**](heatmap.sh): draw heatmap of ChIP-seq samples, Fig 3
 - [**venn.R**](venn.R): R code for venn diagram, Fig 3
-- [**figure3.R**](figure3.R): R code for figure, Fig 3
+- [**figure3.R**](figure_3.R): R code for figure, Fig 3
